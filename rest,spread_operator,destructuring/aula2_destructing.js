@@ -51,3 +51,4 @@ function sum({a, b}) {
     return a + b;
 }
 console.log(sum({ a:5, b: 5}));
+
